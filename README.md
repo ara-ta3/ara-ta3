@@ -6,6 +6,10 @@
 - 💬 Favorite phrases: "Fail fast", "Cache with TTL", "Type safety first"
 - 🐱 Living with a lovely cat
 
+## 🛠️ Personal Projects
+
+- 🔹 [Nekometry](https://nekometry.web.app/?utm_source=github&utm_medium=referral) – A cat nutrition calculator for Japanese users, designed with TypeScript and React.
+
 ## 🔧 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ara-ta3&show_icons=true&theme=tokyonight)
