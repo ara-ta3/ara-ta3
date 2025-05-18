@@ -3,7 +3,7 @@
 - 🚀 Engineer & Engineering Manager
 - 🧪 Passionate about Scala, TypeScript, and clean code
 - 🏗️ Enjoys designing robust architectures and practical domain models
-- 💬 Favorite phrases: "Fail fast", "Cache with TTL", "Type safety first"
+- 💬 Favorite principles: "Fail fast", "Type safe by default", "The code is the documentation"
 - 🐱 Living with a lovely cat
 
 ## 🛠️ Personal Projects
