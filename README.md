@@ -12,13 +12,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ara-ta3&layout=compact&theme=tokyonight)
 
----
-
 ## 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ara-ta3&theme=tokyonight)](https://git.io/streak-stats)
-
----
 
 ## 🏆 Trophy
 
