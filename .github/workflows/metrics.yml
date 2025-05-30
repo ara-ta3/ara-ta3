@@ -3,6 +3,10 @@ on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
+  push:
+    branches:
+      - master
+
 
 permissions:
   contents: write
@@ -12,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
-      - with:
+        with:
         filename: metrics.plugin.isocalendar.fullyear.svg
         token: ${{ secrets.METRICS_TOKEN }}
         base: ""
