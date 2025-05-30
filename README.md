@@ -24,3 +24,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ara-ta3)](https://github.com/ryo-ma/github-profile-trophy)  
 
+## 📊Metrics
+
+<picture>
+  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="GitHub Full-Year Calendar">
+</picture>
