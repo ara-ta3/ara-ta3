@@ -29,3 +29,15 @@
 <picture>
   <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="GitHub Full-Year Calendar">
 </picture>
+
+<picture>
+  <img src="./metrics.plugin.languages.svg" alt="GitHub Languages">
+</picture>
+
+<picture>
+  <img src="./metrics.plugin.stars.svg" alt="GitHub Stars">
+</picture>
+
+<picture>
+  <img src="./metrics.plugin.topics.svg" alt="GitHub Topics">
+</picture>
