@@ -28,8 +28,11 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
+          plugin_languages_sections: recently-used
+          plugin_languages_recent_load: 400
+          plugin_languages_recent_days: 14
           plugin_languages_ignored: html, css, md, yml
-          plugin_languages_limit: 6
+          plugin_languages_limit: 8
           plugin_languages_threshold: 1%
           plugin_languages_other: yes
       - uses: lowlighter/metrics@latest
