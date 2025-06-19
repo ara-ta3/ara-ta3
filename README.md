@@ -10,6 +10,10 @@
 
 - 🔹 [Nekometry](https://nekometry.web.app/?utm_source=github&utm_medium=referral) – A cat nutrition calculator for Japanese users, designed with TypeScript and React.
 
+## 📜 Templates
+
+- 🔹 https://github.com/ara-ta3/WebBoilerplate - Frontend Boilerplate in TypeScript
+
 ## 🔧 GitHub Stats / Streak
 
 <img src="https://github-readme-stats.vercel.app/api?username=ara-ta3&show_icons=true&theme=tokyonight" />
