@@ -18,7 +18,7 @@
 ## 🔧 GitHub Stats / Streak
 
 <img src="https://github-readme-stats.vercel.app/api?username=ara-ta3&show_icons=true&theme=tokyonight" />
-<img src="https://streak-stats.demolab.com/?user=ara-ta3&theme=tokyonight" />
+<img src="./streak-stats.svg" />
 
 
 ## 📊Metrics
