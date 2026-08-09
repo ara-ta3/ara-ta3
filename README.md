@@ -21,9 +21,7 @@
   <img src="./metrics.svg" alt="GitHub Metrics">
 </picture>
 
-## 🔬Name Prefix
-
-## Repository Naming
+## 🔬Repository Naming
 
 - `zlab-*` — Experimental repositories for technical research, PoCs, and testing.
   - Use when the goal is to evaluate a technology or approach with a minimal example.
