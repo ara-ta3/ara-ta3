@@ -21,3 +21,13 @@
   <img src="./metrics.svg" alt="GitHub Metrics">
 </picture>
 
+## 🔬Name Prefix
+
+## Repository Naming
+
+- `zlab-*` — Experimental repositories for technical research, PoCs, and testing.
+  - Use when the goal is to evaluate a technology or approach with a minimal example.
+  - Example: testing lib A + lib B integration.
+- `yard-*` — Personal playground repositories for small projects, prototypes, and casual experiments.
+  - Use when the goal is to build something with a technology rather than evaluate the technology itself.
+  - Example: building a sample service or application with a technology stack.
