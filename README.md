@@ -10,7 +10,7 @@
 
 - 🔹 [My Portfolio](https://ara-ta3.github.io/) - This site serves as both my portfolio and a playground for trying out new technologies.
 - 🔹 [Nekometry](https://nekometry.web.app/?utm_source=github&utm_medium=referral) – A cat nutrition calculator for Japanese users, designed with TypeScript and React.
-- 🔹 [KurashiLab](https://kurashilab.pages.dev/) - A collection of practical calculators for everyday life in Japan, including electricity costs and financial planning.
+- 🔹 [KurashiLab](https://kurashilab.pages.dev/?utm_source=github&utm_medium=referral) - A collection of practical calculators for everyday life in Japan, including electricity costs and financial planning.
 
 ## 📜 Templates
 
